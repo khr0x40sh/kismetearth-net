@@ -37,7 +37,7 @@ namespace KismetEarth.NET
         {
             rect = pictureBox1.Bounds;
 
-            load_bitmap();
+            //load_bitmap();
         }
 
         private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
@@ -234,9 +234,11 @@ namespace KismetEarth.NET
             //clean
             g.Dispose();
         }
+
+        /*
         private void OriginalBmp_redraw()
         {
-            double width = System.Convert.ToDouble(pictureBox1.Width) / 552;
+           double width = System.Convert.ToDouble(pictureBox1.Width) / 552;
             double height = System.Convert.ToDouble(pictureBox1.Height) / 302;
             Bitmap bm = (Bitmap)Image.FromFile("files/lat-lng-grid.gif");
             Bitmap resized = new Bitmap((int)((float)width * bm.Width), (int)((float)height * bm.Height));
@@ -245,11 +247,11 @@ namespace KismetEarth.NET
             g.DrawImage(bm, new Rectangle(0, 0, resized.Width, resized.Height), 0, 0, bm.Width, bm.Height, GraphicsUnit.Pixel);
             g.Dispose();
             resized.Save("lat_lng_resized.gif");
-        }
+        }*/
         private void load_bitmap()
         {
-            bm = (Bitmap)Image.FromFile("lat_lng_resized.gif");
-            pictureBox1.Image = bm;
+           // bm = (Bitmap)Image.FromFile("lat_lng_resized.gif");
+           // pictureBox1.Image = bm;
         }
         #endregion
 

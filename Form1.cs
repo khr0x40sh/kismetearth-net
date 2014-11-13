@@ -1579,10 +1579,14 @@ namespace KismetEarth.NET
 
         private void InfoGrid_Updater(List<wirelessnetwork> input)
         {
-            InfoGrid.Rows[InfoGrid.Rows.Count - 1].Cells[0].Value = "Networks chosen for KML:  " + input.Count;
-            InfoGrid.Update();
-            writing = true;
-            refresh_checker();
+            try
+            {
+                InfoGrid.Rows[InfoGrid.Rows.Count - 1].Cells[0].Value = "Networks chosen for KML:  " + input.Count;
+                InfoGrid.Update();
+                writing = true;
+                refresh_checker();
+            }
+            catch { }
         }
 
         private void blacklistview()

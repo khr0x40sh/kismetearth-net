@@ -24,5 +24,4 @@ C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEart
 C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.csproj.GenerateResource.Cache
 C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.exe
 C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.pdb
-C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.csprojResolveAssemblyReference.cache
 C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.Form1.resources
