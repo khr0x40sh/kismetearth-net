@@ -1,0 +1,28 @@
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\bin\Debug\KismetEarth.NET.exe
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\bin\Debug\KismetEarth.NET.pdb
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\ResolveAssemblyReference.cache
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.CoordinatesForm.resources
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.Form1.resources
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.Pref_Form.resources
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.Properties.Resources.resources
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\GenerateResource.read.1.tlog
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\GenerateResource.write.1.tlog
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.exe
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.pdb
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\bin\Debug\KismetEarth.NET.exe.config
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\bin\Debug\KismetEarth.NET.exe.config
+F:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.exe
+F:\SourceSafe Backup\Wireless\KismetEarth.NETv1.3.root\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.pdb
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\bin\Debug\KismetEarth.NET.exe.config
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\bin\Debug\KismetEarth.NET.exe
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\bin\Debug\KismetEarth.NET.pdb
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.CoordinatesForm.resources
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.Pref_Form.resources
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.Properties.Resources.resources
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.csproj.GenerateResource.Cache
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.exe
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.pdb
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.csprojResolveAssemblyReference.cache
+C:\Users\SOLID7\Documents\Visual Studio 2013\Projects\KismetEarth.NET\KismetEarth.NET\obj\Debug\KismetEarth.NET.Form1.resources
