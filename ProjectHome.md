@@ -1,0 +1,3 @@
+KismetEarth.NET is a user friendly GUI that takes kismet netxml and gpsxml files and converts the two into a Google Earth KML.  It attempts to parse an icon depending on channel (with known SSID) on the location with the highest signal.  Also allows for limited search and sorting functionality for writing and viewing parsed output.  Requires .NET 2.0 or later,Windows XP, Vista, or 7 (may work with mono but is not supported).
+
+**This code is still early beta, so probably still littered with bugs**
